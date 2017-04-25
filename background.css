@@ -1,0 +1,30 @@
+body {
+  background-image: url("cat.jpg");
+  background-color: #C70039;
+}
+
+h1 {
+  color: Black;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: White;
+  text-align: left;
+  margin-left: 40px;
+  font-size: 20px;
+  line-height: 15px;
+}
+
+h3 {
+  color: Black;
+  text-align: left;
+  margin-left: 20px;
+  font-size: 40px;
+}
+
+p {
+    margin-left: 40px;
+    width: 650px;
+}
